@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Halil Gokdal 👋
 
-<!--
-**halilgokdal/halilgokdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Art Director and Graphic Designer based in Istanbul.
+Functional minimalism in logo, packaging, branding and UI/UX.
 
-Here are some ideas to get you started:
+## What I'm exploring
+Generative AI, especially **local GenAI**: running models on my own
+machine for full control, privacy and freedom to experiment.
+For me, AI doesn't replace the designer. It speeds up the path from
+idea to image, while taste and final decisions stay human.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+Art Direction · Graphic Design · Print Design · Logo Design ·
+Icon Design · Package Design · UI/UX Design
+
+## Find me
+[Website](https://www.halilgokdal.com) ·
+[Behance](https://behance.net/halilgokdal) ·
+[Dribbble](https://dribbble.com/halilgokdal) ·
+[LinkedIn](https://linkedin.com/in/halilgokdal) ·
+[X](https://x.com/halilgokdal)
+
+*Good design is seen. Great design is felt.*
