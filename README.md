@@ -18,6 +18,7 @@ Icon Design · Package Design · UI/UX Design
 [Behance](https://behance.net/halilgokdal) ·
 [Dribbble](https://dribbble.com/halilgokdal) ·
 [LinkedIn](https://linkedin.com/in/halilgokdal) ·
-[X](https://x.com/halilgokdal)
+[X](https://x.com/halilgokdal) ·
+[Hugging Face](https://huggingface.co/halilgokdal)) 
 
 *Good design is seen. Great design is felt.*
